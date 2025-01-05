@@ -17,7 +17,7 @@ A lightweight macOS menu bar app to monitor your network bandwidth (upload and d
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/dhanushreddy291/macos-bandwidth-monitor](https://github.com/dhanushreddy291/macos-bandwidth-monitor)
+    git clone https://github.com/dhanushreddy291/macos-bandwidth-monitor
     cd macos-bandwidth-monitor
     ```
 
